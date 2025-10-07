@@ -1,0 +1,11 @@
+ Nombre Mateo DNI 46605333
+ Importe en Horas 1000
+ Retenciones Impositivas 500
+ Importe a Percibir 50000
+ Total: $49999500
+---
+ Nombre Juan DNI 35647583
+ Basico $1000
+ Aportes $100
+ Total: $900
+---
